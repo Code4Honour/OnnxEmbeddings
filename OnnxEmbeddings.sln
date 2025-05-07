@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnnxEmbeddings", "OnnxEmbeddings\OnnxEmbeddings.csproj", "{93FA35A3-F3EB-4F89-AA45-2A91232F2E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMPLE", "SAMPLE\SAMPLE.csproj", "{54FFF1B0-E5D1-4944-AC40-5511BDEF1757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FA35A3-F3EB-4F89-AA45-2A91232F2E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FA35A3-F3EB-4F89-AA45-2A91232F2E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FA35A3-F3EB-4F89-AA45-2A91232F2E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FA35A3-F3EB-4F89-AA45-2A91232F2E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FFF1B0-E5D1-4944-AC40-5511BDEF1757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FFF1B0-E5D1-4944-AC40-5511BDEF1757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FFF1B0-E5D1-4944-AC40-5511BDEF1757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FFF1B0-E5D1-4944-AC40-5511BDEF1757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3156D67-B642-46F6-9D6E-4E3D38B536DF}
+	EndGlobalSection
+EndGlobal
