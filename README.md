@@ -1,5 +1,13 @@
 ONNX embeddings made easy and document text indexing which has been a major problem is also addressed in the repository.
 
+Embedding Models Used:
+
+- BGE
+- JINA
+- ALL-MiniLM
+- MXBAI
+- NOMIC
+- SNOWFLAKE
 
 
 ```csharp
